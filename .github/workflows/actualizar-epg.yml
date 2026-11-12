@@ -24,15 +24,18 @@ jobs:
       - name: Generar XMLTV
         run: python generate_epg.py
 
-      - name: Publicar cambios
+      - name: Comprobar y publicar XMLTV
         run: |
-          git add epg.xml
-          if git diff --cached --quiet -- epg.xml; then
-            echo "El EPG no tuvo cambios."
-            exit 0
-          fi
+          echo "Comprobando archivo generado..."
+          ls -lh epg.xml
+          test -s epg.xml
+          git add -f epg.xml
+          git status --short
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Actualizar EPG"
+          if git diff --cached --quiet; then
+            echo "No hay cambios para publicar."
+            exit 0
+          fi
+          git commit -m "Publicar XMLTV"
           git push
-
