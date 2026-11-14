@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="Zico IPTV EPG - prueba temporal">
+  <channel id="Discovery Channel"><display-name>Canal Discovery Channel (Costa Rica)</display-name></channel>
+  <channel id="Discovery Science"><display-name>Canal Discovery Science (Latinoamérica)</display-name></channel>
+  <channel id="TLC"><display-name>Canal TLC (Costa Rica)</display-name></channel>
+  <channel id="Nat Geo"><display-name>Canal National Geographic (Costa Rica)</display-name></channel>
+  <channel id="History 2"><display-name>Canal History 2 (Costa Rica)</display-name></channel>
+  <channel id="HBO Family"><display-name>Canal HBO Family Latinoamérica</display-name></channel>
+  <channel id="HBO POP"><display-name>Canal HBO Pop</display-name></channel>
+  <channel id="Cinecanal"><display-name>Canal Cinecanal (Costa Rica)</display-name></channel>
+  <channel id="Star Channel"><display-name>Canal Star Channel (Costa Rica)</display-name></channel>
+  <channel id="Cinemax"><display-name>Canal Cinemax (Costa Rica)</display-name></channel>
+  <channel id="TNT"><display-name>Canal TNT (Costa Rica)</display-name></channel>
+  <channel id="Universal Tv"><display-name>Canal Universal TV (Costa Rica)</display-name></channel>
+  <channel id="Space"><display-name>Canal Space (Costa Rica)</display-name></channel>
+  <channel id="Warner"><display-name>Canal Warner TV (Costa Rica)</display-name></channel>
+  <channel id="TNT Series"><display-name>Canal TNT Series (Costa Rica)</display-name></channel>
+  <channel id="AXN"><display-name>Canal AXN (Costa Rica)</display-name></channel>
+  <channel id="Golden"><display-name>Canal Golden (Costa Rica)</display-name></channel>
+  <programme start="20261113163500 -0600" stop="20261113191300 -0600" channel="Warner"><title>Shazam!</title></programme>
+  <programme start="20261113191300 -0600" stop="20261113210000 -0600" channel="Warner"><title>Alfa</title></programme>
+  <programme start="20261113175500 -0600" stop="20261113200000 -0600" channel="Golden"><title>Ladrona de Identidades</title></programme>
+  <programme start="20261113200000 -0600" stop="20261113215400 -0600" channel="Golden"><title>Pixeles</title></programme>
+  <programme start="20261113170300 -0600" stop="20261113185400 -0600" channel="Cinecanal"><title>Trolls 2: World Tour</title></programme>
+  <programme start="20261113185400 -0600" stop="20261113210000 -0600" channel="Cinecanal"><title>Recién Casados</title></programme>
+  <programme start="20261113165400 -0600" stop="20261113183500 -0600" channel="Cinemax"><title>Cómo Entrenar a tu Dragón</title></programme>
+  <programme start="20261113183500 -0600" stop="20261113210000 -0600" channel="Cinemax"><title>La momia regresa</title></programme>
+  <programme start="20261113165500 -0600" stop="20261113200200 -0600" channel="Star Channel"><title>Kingsman: El Círculo Dorado</title></programme>
+  <programme start="20261113200200 -0600" stop="20261113203400 -0600" channel="Star Channel"><title>Los Simpson</title></programme>
+  <programme start="20261113174000 -0600" stop="20261113183000 -0600" channel="Universal Tv"><title>Maratón La ley y el orden UVE</title></programme>
+  <programme start="20261113183000 -0600" stop="20261113192000 -0600" channel="Universal Tv"><title>Maratón La ley y el orden UVE</title></programme>
+  <programme start="20261113165600 -0600" stop="20261113190500 -0600" channel="Space"><title>Romeo Debe Morir</title></programme>
+  <programme start="20261113190500 -0600" stop="20261113210000 -0600" channel="Space"><title>Monster Hunter: La Cacería Comienza</title></programme>
+  <programme start="20261113171400 -0600" stop="20261113185600 -0600" channel="TNT"><title>Kung Fu Panda</title></programme>
+  <programme start="20261113185600 -0600" stop="20261113185900 -0600" channel="TNT"><title>Lo mejor de Latin Grammy Awards 2026</title></programme>
+  <programme start="20261113172000 -0600" stop="20261113181000 -0600" channel="AXN"><title>Hawaii Five-0</title></programme>
+  <programme start="20261113181000 -0600" stop="20261113190500 -0600" channel="AXN"><title>Criminal Minds</title></programme>
+  <programme start="20261113175500 -0600" stop="20261113185100 -0600" channel="TNT Series"><title>CSI: Miami</title></programme>
+  <programme start="20261113185100 -0600" stop="20261113193900 -0600" channel="TNT Series"><title>CSI: Miami</title></programme>
+  <programme start="20261113171100 -0600" stop="20261113184800 -0600" channel="TLC"><title>Todo en 90 días</title></programme>
+  <programme start="20261113184800 -0600" stop="20261113193700 -0600" channel="TLC"><title>Jay y Pamela</title></programme>
+  <programme start="20261113174000 -0600" stop="20261113183000 -0600" channel="Discovery Channel"><title>Los hipopótamos del capo</title></programme>
+  <programme start="20261113183000 -0600" stop="20261113192000 -0600" channel="Discovery Channel"><title>Los millones de Escobar</title></programme>
+  <programme start="20261113165900 -0600" stop="20261113180000 -0600" channel="Nat Geo"><title>Alerta Aeropuerto</title></programme>
+  <programme start="20261113180000 -0600" stop="20261113190400 -0600" channel="Nat Geo"><title>Salvajemente famosos</title></programme>
+  <programme start="20261113174800 -0600" stop="20261113183600 -0600" channel="Discovery Science"><title>Códigos y Conspiraciones</title></programme>
+  <programme start="20261113183600 -0600" stop="20261113192400 -0600" channel="Discovery Science"><title>The Explosion Show</title></programme>
+  <programme start="20261113172900 -0600" stop="20261113190000 -0600" channel="HBO Family"><title>Mi Villano Favorito 3</title></programme>
+  <programme start="20261113190000 -0600" stop="20261113203500 -0600" channel="HBO Family"><title>Shrek Tercero</title></programme>
+  <programme start="20261113172000 -0600" stop="20261113190000 -0600" channel="HBO POP"><title>Oso Intoxicado</title></programme>
+  <programme start="20261113190000 -0600" stop="20261113210000 -0600" channel="HBO POP"><title>Una Esposa de Mentira</title></programme>
+  <programme start="20261113172000 -0600" stop="20261113181000 -0600" channel="History 2"><title>Ideas Siniestras</title></programme>
+  <programme start="20261113181000 -0600" stop="20261113190000 -0600" channel="History 2"><title>Gigantes de las máquinas</title></programme>
+</tv>
